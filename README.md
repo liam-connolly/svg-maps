@@ -48,6 +48,7 @@ A set of SVG maps that can be installed via [npm](https://www.npmjs.com) or [yar
 * 🇦🇪 [UAE](packages/uae)
 * 🇺🇦 [Ukraine](packages/ukraine)
 * 🇺🇸 [USA](packages/usa)
+* 🇺🇸 [USA, Chicago](packages/usa.chicago/)
 * 🇺🇸 [USA, Counties](packages/usa.counties)
 * 🇺🇸 [USA, States & Territories](packages/usa-.states-territories)
 * 🇺🇸 [USA, Florida](packages/usa.florida)
