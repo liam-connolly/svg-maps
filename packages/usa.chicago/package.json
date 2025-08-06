@@ -1,0 +1,21 @@
+{
+	"name": "@svg-maps/usa.chicago",
+	"version": "1.0.0",
+	"description": "Map of Chicago, IL, USA",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/VictorCazanave/svg-maps/tree/master/packages/usa.chicago"
+	},
+	"keywords": [
+		"svg",
+		"map",
+		"usa",
+		"chicago"
+	],
+	"author": "Liam Connolly <liamconnolly.hello@gmail.com>",
+	"publishConfig": {
+		"access": "public"
+	},
+	"license": "Unlicense"
+}
